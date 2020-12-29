@@ -1,0 +1,8 @@
+{
+  "name": "File-Caching-Example",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "redis": "^3.0.2"
+  }
+}

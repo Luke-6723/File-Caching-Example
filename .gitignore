@@ -1,0 +1,4 @@
+.env
+output.png
+node_modules/
+.idea/
