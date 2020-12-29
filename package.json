@@ -1,8 +1,24 @@
 {
-  "name": "File-Caching-Example",
+  "name": "file-caching-example",
   "version": "1.0.0",
   "dependencies": {
     "dotenv": "^8.2.0",
     "redis": "^3.0.2"
-  }
+  },
+  "description": "An example of how to store and retrieve file buffers with redis.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke-6723/File-Caching-Example.git"
+  },
+  "author": "Luke-6723",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luke-6723/File-Caching-Example/issues"
+  },
+  "homepage": "https://github.com/Luke-6723/File-Caching-Example#readme"
 }
